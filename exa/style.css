@@ -1,0 +1,33 @@
+.inicio{
+	background:black;
+}
+p,span{
+	color:green;
+
+}
+.boton{
+	width:200px;
+	height:50px;
+	background:gray;
+	margin:0 auto;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px gray;
+}
+.tex{
+	margin-top: 50px;
+}
+.servicio{
+	background:white;
+}
+b{
+	color:white;
+
+}
+img{
+
+	border-radius: 2px;
+	box-shadow: 2px 2px 2px black;
+	width:100px;
+	height:50px;
+
+} 
